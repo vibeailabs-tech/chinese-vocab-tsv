@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese Vocab TSV"
+  short_description: "Generate Chinese vocabulary TSV tables"
+  default_prompt: "Use $chinese-vocab-tsv to generate a TSV vocabulary table for these Chinese words: 你好, 学习, 快乐."
